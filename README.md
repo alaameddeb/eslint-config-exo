@@ -1,0 +1,1 @@
+# eXo eslint custom config

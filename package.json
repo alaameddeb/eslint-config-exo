@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-exo",
+  "version": "1.0.0",
+  "description": "eXo eslint custom config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaameddeb/eslint-config-exo"
+  },
+  "author": "eXo",
+  "license": "LGPL",
+  "main": "main.js"
+}
